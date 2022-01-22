@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Finder</string>
+    <string name="search_title">Search</string>
+    <string name="settings_title">Settings</string>
+    <string name="about">About</string>
+    <string name="rating">RATING</string>
+    <string name="vote">Vote</string>
+    <string name="name_of_the_movie">Name of the movie</string>
+</resources>
